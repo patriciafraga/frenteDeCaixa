@@ -4,10 +4,10 @@
 ## Grupo 5 - DEPLOYráveis - Módulo 5 - Curso Backend
 ### T09 - Ifood - Alunas:
 
-- [Ingrid Rocha](https://github.com/ingridrochadev)
-- [Patrícia F Fraga](https://github.com/patriciafraga)
-- [Paula A Santos](https://github.com/pauladeandradesantos)
-- [Vanessa Schumacker](https://github.com/VanessaSchumacker)
+- [Ingrid Rocha](https://github.com/ingridrochadev) <a href="https://www.linkedin.com/in/ingrid-rocha-91b846121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+- [Patrícia F Fraga](https://github.com/patriciafraga) <a href="https://www.linkedin.com/in/patriciaffraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+- [Paula A Santos](https://github.com/pauladeandradesantos) <a href="https://www.linkedin.com/in/pauladeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+- [Vanessa Schumacker](https://github.com/VanessaSchumacker) <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
 ## Descrição
 Este projeto fornece uma API para integração com sistemas de Ponto de Venda (PDV). O Sistema de Frente de Caixa oferece recursos essenciais para gerenciar transações, cadastrar produtos, pedidos e clientes.
