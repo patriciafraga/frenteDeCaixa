@@ -15,7 +15,7 @@ Trata-se de um projeto piloto, que faz parte do Desafio Final do curso de Backen
 
 
 ## Início:
-Fork e clonagem do repositório - Cubos Academy:
+1. Fork e clonagem do repositório - Cubos Academy:
    git clone https://github.com/patriciafraga/desafio-backend-modulo-05-sistema-pdv-b2b-ifood-t09   
 
 ### **Dependências**
