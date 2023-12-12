@@ -15,17 +15,17 @@ Trata-se de um projeto piloto, que faz parte do Desafio Final do curso de Backen
 
 
 ## Início:
-1. Fork e clonagem do repositório - Cubos Academy:
+Fork e clonagem do repositório - Cubos Academy:
    git clone https://github.com/patriciafraga/desafio-backend-modulo-05-sistema-pdv-b2b-ifood-t09   
 
 ### **Dependências**
-2. Instalar dependências de produção:
+Instalar dependências de produção:
 
 Para rodar as api foram instalados os pacotes: express bcrypt cors dotenv jsonwebtoken knex pg aws-sdk handlebars joi nodemailer multer. 
 O nodemon foi instalado apenas como dependência de desenvolvimento.
 
 ### **Conexão PostgreSQL/Knex**
-3. Configurar as variáveis de ambiente:
+Configurar as variáveis de ambiente:
 
 Para gerenciar e agregar segurança às conexões com banco de dados, envio de emails, upload de arquivos e deploy da API  foram utilizadas variáveis de ambiente por meio do dotenv, evitando a exposição de informações privadas, como no exemplo:
 
@@ -192,7 +192,11 @@ Para a criação da senha foi utilizado o pacote bcrypt. O **hash** foi constru�
 
 ### **Execução:**
 
-#### **Insomnia**:
+Deploy da API no Cyclic; <br>
+Banco de Dados usando ElephantSQL <br>
+Upload de imagens no Blackblaze;
+
+#### **TESTES - Insomnia**:
 
 <img src="./src/imagens/pedido_cliente_id.gif" /><br/>
  &nbsp;
